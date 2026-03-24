@@ -1,0 +1,29 @@
+{
+  "connection": {
+    "host": "localhost",
+    "port": 5150
+  },
+  "sample_id": "HIGHWBC001",
+  "results": {
+    "WBC": { "value": "25.0", "unit": "K/uL" },
+    "RBC": { "value": "4.50", "unit": "M/uL" },
+    "HGB": { "value": "13.0", "unit": "g/dL" },
+    "HCT": { "value": "39.0", "unit": "%" },
+    "MCV": { "value": "87.0", "unit": "fL" },
+    "MCH": { "value": "28.9", "unit": "pg" },
+    "MCHC": { "value": "33.3", "unit": "g/dL" },
+    "PLT": { "value": "180", "unit": "K/uL" },
+    "RDW-CV": { "value": "14.0", "unit": "%" },
+    "RDW-SD": { "value": "44.0", "unit": "fL" },
+    "NEU%": { "value": "82.0", "unit": "%" },
+    "LYM%": { "value": "10.0", "unit": "%" },
+    "MON%": { "value": "5.0", "unit": "%" },
+    "EOS%": { "value": "2.0", "unit": "%" },
+    "BAS%": { "value": "1.0", "unit": "%" },
+    "NEU#": { "value": "20.50", "unit": "K/uL" },
+    "LYM#": { "value": "2.50", "unit": "K/uL" },
+    "MON#": { "value": "1.25", "unit": "K/uL" },
+    "EOS#": { "value": "0.50", "unit": "K/uL" },
+    "BAS#": { "value": "0.25", "unit": "K/uL" }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "connection": {
+    "host": "localhost",
+    "port": 5150
+  },
+  "sample_id": "ANEMIA001",
+  "results": {
+    "WBC": { "value": "6.8", "unit": "K/uL" },
+    "RBC": { "value": "3.20", "unit": "M/uL" },
+    "HGB": { "value": "8.5", "unit": "g/dL" },
+    "HCT": { "value": "28.0", "unit": "%" },
+    "MCV": { "value": "68.0", "unit": "fL" },
+    "MCH": { "value": "22.0", "unit": "pg" },
+    "MCHC": { "value": "30.0", "unit": "g/dL" },
+    "PLT": { "value": "310", "unit": "K/uL" },
+    "RDW-CV": { "value": "18.5", "unit": "%" },
+    "RDW-SD": { "value": "55.0", "unit": "fL" },
+    "NEU%": { "value": "58.0", "unit": "%" },
+    "LYM%": { "value": "32.0", "unit": "%" },
+    "MON%": { "value": "6.0", "unit": "%" },
+    "EOS%": { "value": "3.0", "unit": "%" },
+    "BAS%": { "value": "1.0", "unit": "%" },
+    "NEU#": { "value": "3.94", "unit": "K/uL" },
+    "LYM#": { "value": "2.18", "unit": "K/uL" },
+    "MON#": { "value": "0.41", "unit": "K/uL" },
+    "EOS#": { "value": "0.20", "unit": "K/uL" },
+    "BAS#": { "value": "0.07", "unit": "K/uL" }
+  }
+}
