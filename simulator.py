@@ -69,7 +69,7 @@ def build_hl7_message(sample_id, results):
         unit = test_data["unit"]
         description = TEST_DESCRIPTIONS.get(test_code, test_code)
         segments.append(
-            f"OBX|{seq}|NM|{test_code}^{description}||{value}|{unit}||||F"
+            f"OBX|{seq}|NM|{description}^{test_code}||{value}|{unit}||||F"
         )
         seq += 1
 
