@@ -59,3 +59,7 @@ python simulator.py --config samples/high_wbc.json --port 5160 --sample-id 99999
 ## HL7 Message Format
 
 The simulator builds an ORU^R01 message with MSH, OBR, and OBX segments, wrapped in MLLP framing (VT/FS/CR). This matches the format expected by the HumaCount5D middleware.
+
+## Licence
+
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE).
